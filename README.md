@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lots of fun Data Science and AI with IBM!
 - 💞️ I’m looking to collaborate on Any project that could use my work as well as provide a learning experience
 - 📫 How to reach me: Linked-In www.linkedin.com/in/liam-boyle-93a740245
-- ⚡ Fun fact: I love to go rock climbing! 
+- ⚡ Fun fact: A group of Owls is called a "parliament." 
 
 <!---
 LiamBoyle22/LiamBoyle22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
