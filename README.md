@@ -1,4 +1,4 @@
-M.S. Computer Science @ Sacred Heart · Researching machine learning & latency.
+M.S. Computer Science @ Sacred Heart · Researching Text-Based Analytics (NLP)
 
 
 <!---
